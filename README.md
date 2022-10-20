@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Tom Brockington
+## Junior Full-Stack developer -- Electrical engineer
 
 <!--
 **webdesignbytom/webdesignbytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
