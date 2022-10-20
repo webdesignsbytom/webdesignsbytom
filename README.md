@@ -1,6 +1,7 @@
-### Hi there 👋
-## Tom Brockington
-# Junior Full-Stack developer -- Electrical engineer
+### Hi there 👋 i am 
+<h1> Tom Brockington </h1>
+
+### Junior Full-Stack developer -- Electrical engineer
 
 Skill-stack
 <!--
