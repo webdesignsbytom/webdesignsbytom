@@ -3,7 +3,15 @@
 
 ### Junior Full-Stack developer -- Electrical engineer
 
-Skill-stack
+<h4> Skill-stack </h4>
+<img src='./react.svg'>
+<img src='./html5.svg'>
+<img src='./css3.svg'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/595px-Javascript-shield.svg.png?20180912181046' width='89px'>
+<img src='https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png)' width='89px'>
+<!-- <img src='./bootstrap.svg'> -->
+
+
 <!--
 **webdesignbytom/webdesignbytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
