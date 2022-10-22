@@ -8,7 +8,7 @@
 <div style="display:flex; align-items:center;">
 <img src='./html5.svg' width='70px'>
 <img src='./css3.svg' width='70px'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/595px-Javascript-shield.svg.png?20180912181046' width='70px' height='70'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/595px-Javascript-shield.svg.png?20180912181046' width='50px' height='70'>
 <img src='./nodejs.svg' width='70px'>
 <img src='./react.svg' width='70px'>
 <img src='./sql.png' width='80px'>
