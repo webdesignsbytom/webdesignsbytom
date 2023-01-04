@@ -16,6 +16,7 @@
 
 <img src='https://camo.githubusercontent.com/8be7d9a0b7b1ca4bae5db3cf0b5898b92aaf39cf1d0885c67676807fa8f87aa1/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323639392f504e472f3531322f657870726573736a735f6c6f676f5f69636f6e5f3136393138352e706e67' width='70px' >
 <img src='https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67' width='70px' >
+<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX////LODfJKyrioaHKMC/ZfHvIIiDz2dnek5LJLSzKNTTQSkn24uLIIiHMOTn129vinZ367e3uy8rSVlX99/fdjYzmrq7uxMPQTEvFAADWcXHNQD/GEQ/35+fVbWz77+/bhITUZmXmsLDyHCq4AAAB8UlEQVR4nO3b0VbaQBRAUYNtkEgBFQpUrG3//yO7ipmxNBAvTYrQtffjcBPn+GKWGa6uAAAAAAAAAAAAAAAAAAAAAADgaMvZ9bmbLTsVLsrBuSsXnQpvRsW5G90oVHjuFCpMhdWHgPxTI8NHTh+8vqfC6uFjQN7yl8Dw17TFSeTWh6/vqXBwHZmeVC/T5VNgePqp/uXd/t3WxmW/hbPIdC4cB4aHHQunCmMU7lK4Q+FbFAa1FM7vas95qaUwT8/TSlthGr5ruf7fF96vy63N6w5bCpf19PpzWmkpnNfD5To/Onzb1Ct5IycoTDt8yEtthfX0IFQ4KOob5cJF4+FKYZBChZnCHQq3FAYpVJgp3KFwS2GQQoXZsnx52VD+t4VNChUqDFKosIXCUxc233J3LRy3/Fc/nY8o8xuD5kZ6fstdPK5u/1TnFJP00apIG2sW3k8OXl8cvnWVFlaPRWMjVb+FRdVQND5qKVyWgesDt24uvcuJoZYn7/4pVKhwL4W96li4qF8uh+SIPefa0vNBMTrihiGbbifZn4ZHmE7qij1nE7/nv8/TY24ZETkm2Jf01LbnxGj6ZPDjhPvpX/Hbo8cBr/9ru0gKFZ4/hZdfOHr7m2abyy6MfFtw+N6bBAAAAAAAAAAAAAAAAAAAAACAX34CrC5ayvgCOKgAAAAASUVORK5CYII=' width='70px' >
 <img src='https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667' width='70px'>
 <img src='https://camo.githubusercontent.com/394ba38797d83799a16f1cb2fd3fc8f607b9fb116f49cf1e1b64eacff9844602/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f5461696c77696e645f4353535f4c6f676f2e7376672f3230343870782d5461696c77696e645f4353535f4c6f676f2e7376672e706e67' width='70px'>
 <img src='./bootstrap.svg' width='70px'>
@@ -29,15 +30,14 @@
 
 - 🔭 I’m currently working on websites and code for my small businesses and upcoming projects/inventions.
   - Sales websites for syrup company and custom furniture and art shop.
-  - Waveform analyser to produce machine code from songs - for curing snoring $$$.
-  - Online poker website for A project im building a circuit to go with - top secret of course.
+
   
 - ⚡ Fun fact: ...
   - I bought a bunch of PS2/3 devices and am making a super computer... that will run very little and eat power. 
   - The best syrup for cocktails and coffee is sold at www.wervings.co.uk 
 
 - 🌱 Im looking to learn: ...
-  - Python and C++ languages to intergrate more with circuit boards. 
+  - Python and C# languages to intergrate more with circuit boards. 
   - Machine learning projects
   - Thundaga 
 <!--
