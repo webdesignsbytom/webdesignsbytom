@@ -5,50 +5,47 @@
 ### Junior Full-Stack developer -- Electrical engineer
 
 <h4> Skill-stack </h4>
-<div style="display:flex; align-items:center;">
-<img src='./html5.svg' width='70px'>
-<img src='./css3.svg' width='70px'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/595px-Javascript-shield.svg.png?20180912181046' width='50px' height='70'>
-<img src='./nodejs.svg' width='70px'>
-<img src='./react.svg' width='70px'>
-<img src='./sql.png' width='80px'>
-<img src='https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png)' width='70px' >
-
-<img src='https://camo.githubusercontent.com/8be7d9a0b7b1ca4bae5db3cf0b5898b92aaf39cf1d0885c67676807fa8f87aa1/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323639392f504e472f3531322f657870726573736a735f6c6f676f5f69636f6e5f3136393138352e706e67' width='70px' >
-<img src='https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67' width='70px' >
-<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX////LODfJKyrioaHKMC/ZfHvIIiDz2dnek5LJLSzKNTTQSkn24uLIIiHMOTn129vinZ367e3uy8rSVlX99/fdjYzmrq7uxMPQTEvFAADWcXHNQD/GEQ/35+fVbWz77+/bhITUZmXmsLDyHCq4AAAB8UlEQVR4nO3b0VbaQBRAUYNtkEgBFQpUrG3//yO7ipmxNBAvTYrQtffjcBPn+GKWGa6uAAAAAAAAAAAAAAAAAAAAAADgaMvZ9bmbLTsVLsrBuSsXnQpvRsW5G90oVHjuFCpMhdWHgPxTI8NHTh+8vqfC6uFjQN7yl8Dw17TFSeTWh6/vqXBwHZmeVC/T5VNgePqp/uXd/t3WxmW/hbPIdC4cB4aHHQunCmMU7lK4Q+FbFAa1FM7vas95qaUwT8/TSlthGr5ruf7fF96vy63N6w5bCpf19PpzWmkpnNfD5To/Onzb1Ct5IycoTDt8yEtthfX0IFQ4KOob5cJF4+FKYZBChZnCHQq3FAYpVJgp3KFwS2GQQoXZsnx52VD+t4VNChUqDFKosIXCUxc233J3LRy3/Fc/nY8o8xuD5kZ6fstdPK5u/1TnFJP00apIG2sW3k8OXl8cvnWVFlaPRWMjVb+FRdVQND5qKVyWgesDt24uvcuJoZYn7/4pVKhwL4W96li4qF8uh+SIPefa0vNBMTrihiGbbifZn4ZHmE7qij1nE7/nv8/TY24ZETkm2Jf01LbnxGj6ZPDjhPvpX/Hbo8cBr/9ru0gKFZ4/hZdfOHr7m2abyy6MfFtw+N6bBAAAAAAAAAAAAAAAAAAAAACAX34CrC5ayvgCOKgAAAAASUVORK5CYII=' width='70px' >
-<img src='https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667' width='70px'>
-<img src='https://camo.githubusercontent.com/394ba38797d83799a16f1cb2fd3fc8f607b9fb116f49cf1e1b64eacff9844602/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f5461696c77696e645f4353535f4c6f676f2e7376672f3230343870782d5461696c77696e645f4353535f4c6f676f2e7376672e706e67' width='70px'>
-<img src='./bootstrap.svg' width='70px'>
-
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React.js">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Material UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=8DD6F9" alt="Webpack">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind">
+  <img src="https://img.shields.io/badge/-Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1B222D" alt="Prisma">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C sharp">
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=5849BE" alt="Insomnia">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel">
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">
 </div>
 
 - 👀 I'm currently looking for:...
+
   - Work as a Full-Stack Developer.
   - Skilled teams to work with so i can progress with my skills and learning.
   - A chance to build and create new things using the latest technology.
 
 - 🔭 I’m currently working on websites and code for my small businesses and upcoming projects/inventions.
   - Sales websites for syrup company and custom furniture and art shop.
-
-  
 - ⚡ Fun fact: ...
-  - I bought a bunch of PS2/3 devices and am making a super computer... that will run very little and eat power. 
-  - The best syrup for cocktails and coffee is sold at www.wervings.co.uk 
+
+  - I bought a bunch of PS2/3 devices and am making a super computer... that will run very little and eat power.
+  - The best syrup for cocktails and coffee is sold at www.wervings.co.uk
 
 - 🌱 Im looking to learn: ...
-  - Python and C# languages to intergrate more with circuit boards. 
+  - Python and C# languages to intergrate more with circuit boards.
   - Machine learning projects
-  - Thundaga 
-<!--
-**webdesignbytom/webdesignbytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+  - Thundaga
