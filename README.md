@@ -43,10 +43,10 @@
 
 
 ## Interests
-I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.
-Fine woodworking and epoxy resin art [TavyEpoxy.com](https://tavyepoxy.co.uk).
-Amateur rocket builder - brain designs available.
-Travel and scuba diving.
+<p>I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.</p>
+<p>Fine woodworking and epoxy resin art [TavyEpoxy.com](https://tavyepoxy.co.uk).</p>
+<p>Amateur rocket builder - brain designs available.</p>
+<p>Travel and scuba diving.</p>
 
 ### Extra-curricular
 - I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. [LetThemCode](https://youtube-channel-link).
