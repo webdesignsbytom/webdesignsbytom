@@ -39,8 +39,7 @@
 <p>5 years as head of electronics at Antex Electronics, where I learned to work with C/C++ for old machine code and circuit design working with Arduino boards.</p>
 <p>3 years self-employed web developer and graphic designer using MERN and similar skill stacks.</p>
 <p>2 years and currently employed as an app designer using .Net products including MAUI and Blazor for 3D printer software.</p>
-  
-
+ 
 
 ## Interests
 <p>I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.</p>
@@ -48,12 +47,12 @@
 <p>Amateur rocket builder - brain designs available.</p>
 <p>Travel and scuba diving.</p>
 
-### Extra-curricular
+## Extra-curricular
 - I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. [LetThemCode](https://youtube-channel-link).
 - I create Arduino circuit board instructions [LetThemCode](https://arduino-circuit-instructions).
 - Part of a team working on myecoapp.org charity.
 
-- 🌱 I'm currently studying: ...
+## 🌱 I'm currently studying: ...
   - Networking systems
   - Rocketry 
   - Thundaga
