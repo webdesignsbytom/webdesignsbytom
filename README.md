@@ -35,23 +35,24 @@
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="c++">
 </div>
 
-## About me
-5 years as head of electronics at Antex Electronics, where i learned to work with C/C++ for old machine code and circuit design working with Arduino boards.
-3 Years self employeed web developer and graphic designer using MERN and similar skillstacks.
-2 Years and currently employed as an app designer using .Net products including MAUI and Blazor for 3D printer software.
+### About me
+5 years as head of electronics at Antex Electronics, where I learned to work with C/C++ for old machine code and circuit design working with Arduino boards.
+3 years self-employed web developer and graphic designer using MERN and similar skill stacks.
+2 years and currently employed as an app designer using .Net products including MAUI and Blazor for 3D printer software.
 
 ## Interests
-I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a a big hobby of mine.
-Fine woodworking and epoxy resin art [https:tavyepoxy.co.uk](TavyEpoxy.com)
-Amatuer rocket builder - brain designs available
-Travel and scuba diving
+I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.
+Fine woodworking and epoxy resin art [TavyEpoxy.com](https://tavyepoxy.co.uk).
+Amateur rocket builder - brain designs available.
+Travel and scuba diving.
 
-### Extra curricular
-- I have a YouTube channel where I am slowly releasing solutions to problems i can't find a video or article for. (https://)[LetThemCode]
-- I create Arduino circuit board instructions [https://](LetThemCode)
+### Extra-curricular
+- I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. [LetThemCode](https://youtube-channel-link).
+- I create Arduino circuit board instructions [LetThemCode](https://arduino-circuit-instructions).
 - Part of a team working on myecoapp.org charity.
 
-- 🌱 Im currently studying: ...
+- 🌱 I'm currently studying: ...
   - Networking systems
   - Rocketry 
   - Thundaga
+
