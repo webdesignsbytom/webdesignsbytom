@@ -1,12 +1,12 @@
-### Hi there 👋 i am
+# Hi there 👋 i am
 
 <h1> Tom Brockington </h1>
 
-### Software and full-stack web developer -- Electrical engineer
+# Software and full-stack web developer -- Electrical engineer
 
-<h4> Skill-stack </h4>
+<h2> Skill-stack </h2>
 
-<p align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript">
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React.js">
@@ -33,22 +33,25 @@
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="c++">
-</p>
+</div>
 
-- 👀 I'm currently looking for:...
+## About me
+5 years as head of electronics at Antex Electronics, where i learned to work with C/C++ for old machine code and circuit design working with Arduino boards.
+3 Years self employeed web developer and graphic designer using MERN and similar skillstacks.
+2 Years and currently employed as an app designer using .Net products including MAUI and Blazor for 3D printer software.
 
-  - Work as a Full-Stack Developer.
-  - Skilled teams to work with so i can progress with my skills and learning.
-  - A chance to build and create new things using the latest technology.
+## Interests
+I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a a big hobby of mine.
+Fine woodworking and epoxy resin art [https:tavyepoxy.co.uk](TavyEpoxy.com)
+Amatuer rocket builder - brain designs available
+Travel and scuba diving
 
-- 🔭 I’m currently working on websites and code for my small businesses and upcoming projects/inventions.
-  - Sales websites for syrup company and custom furniture and art shop.
-- ⚡ Fun fact: ...
+### Extra curricular
+- I have a YouTube channel where I am slowly releasing solutions to problems i can't find a video or article for. [https://](LetThemCode)
+- I create Arduino circuit board instructions [https://](LetThemCode)
+- Part of a team working on myecoapp.org charity.
 
-  - I bought a bunch of PS2/3 devices and am making a super computer... that will run very little and eat power.
-  - The best syrup for cocktails and coffee is sold at www.wervings.co.uk
-
-- 🌱 Im looking to learn: ...
-  - Python and C# languages to intergrate more with circuit boards.
-  - Machine learning projects
+- 🌱 Im currently studying: ...
+  - Networking systems
+  - Rocketry 
   - Thundaga
