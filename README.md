@@ -2,7 +2,7 @@
 
 <h1> Tom Brockington </h1>
 
-### Junior Full-Stack developer -- Electrical engineer
+### Software and full-stack web developer -- Electrical engineer
 
 <h4> Skill-stack </h4>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">
-
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="c++">
 </p>
 
 - 👀 I'm currently looking for:...
