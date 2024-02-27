@@ -47,7 +47,7 @@ Amatuer rocket builder - brain designs available
 Travel and scuba diving
 
 ### Extra curricular
-- I have a YouTube channel where I am slowly releasing solutions to problems i can't find a video or article for. [https://](LetThemCode)
+- I have a YouTube channel where I am slowly releasing solutions to problems i can't find a video or article for. (https://)[LetThemCode]
 - I create Arduino circuit board instructions [https://](LetThemCode)
 - Part of a team working on myecoapp.org charity.
 
