@@ -43,12 +43,12 @@
 
 ## Interests
 <p>I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.</p>
-<p>Fine woodworking and epoxy resin art <a href="https://www.tavyepoxy.co.uk" target="_blank"></a></p>
+<p>Fine woodworking and epoxy resin art <a href="https://www.tavyepoxy.co.uk" target="_blank">TavyEpoxy</a></p>
 <p>Amateur rocket builder - brain designs available.</p>
 <p>Travel and scuba diving.</p>
 
 ## Extra-curricular
-- I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. <a href="https://www.youtube.com/@webdesignsbytom" target="_blank"></a>.
+- I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. <a href="https://www.youtube.com/@webdesignsbytom" target="_blank">YouTube Channel</a>.
 - I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
 - Part of a team working on myecoapp.org charity.
 
