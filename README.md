@@ -48,7 +48,7 @@
 <p>Travel and scuba diving.</p>
 
 ## Extra-curricular
-- I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. [LetThemCode](https://youtube-channel-link).
+- I have a YouTube channel where I am slowly releasing solutions to problems I can't find a video or article for. ([https://youtube-channel-link](YouTube Channel)).
 - I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
 - Part of a team working on myecoapp.org charity.
 
