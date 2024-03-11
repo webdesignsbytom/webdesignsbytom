@@ -38,7 +38,7 @@
 ## About me
 <p>5 years as head Electrical Engineer at Antex Electronics, where I learned to work with C/C++ for old machine code and circuit design working with Arduino boards.</p>
 <p>3 years self-employed Full-Stack web developer and graphic designer using MERN and similar skill stacks.</p>
-<p>2 years and currently employed as an App and Web designer using .Net products including MAUI and Blazor for 3D printer software.</p>
+<p>2 years and currently employed as an App and Web designer using .Net products including MAUI and Blazor for 3D printer CAD software.</p>
  
 ## Interests
 <p>I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.</p>
