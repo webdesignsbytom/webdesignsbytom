@@ -36,7 +36,7 @@
 </div>
 
 ## About me
-<p>5 years as head Electrical Engineer at Antex Electronics, where I learned to work with C/C++ for old machine code and circuit design working with Arduino boards.</p>
+<p>5 years as head Electrical Engineer at Antex Electronics, where I learned to work with C/C++ for old machine code and circuit design working with Arduino boards. Along with doing Wordpress and Javascript web design.</p>
 <p>3 years self-employed Full-Stack web developer and graphic designer using MERN and similar skill stacks.</p>
 <p>2 years and currently employed as an App and Web designer using .Net products including MAUI and Blazor for 3D printer CAD software.</p>
  
@@ -48,6 +48,7 @@
 
 ## Extra-curricular
 - I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
+- Developing a custom robot arm with camera and AI, control link coming soon.
 - Part of a team working on myecoapp.org charity.
 
 ## 🌱 I'm currently studying: ...
