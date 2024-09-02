@@ -54,8 +54,7 @@
 
 
 ## Extra-curricular
-- I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
-- Part of a team working on myecoapp.org charity.
-- 
+- **Code ssharing** I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
+- **Planet Tidy** Part of a team working on myecoapp.org charity.
 - **Travel and Scuba Diving**: I love traveling and scuba diving, exploring new places and underwater worlds.
 
