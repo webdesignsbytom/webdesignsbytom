@@ -38,6 +38,14 @@
 <p>3 years self-employed Full-Stack web developer and graphic designer using MERN and similar skill stacks.</p>
 <p>2 years and currently employed as an App and Web designer using .Net products including MAUI and Blazor for 3D printer CAD software.</p>
 
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdesignsbytom&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webdesignsbytom&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webdesignsbytom&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdesignsbytom&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdesignsbytom&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
 ## Interests
 <p>I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.</p>
 <p>Fine woodworking and epoxy resin art <a href="https://instagram/tavyepoxy" target="_blank">TavyEpoxy</a></p>
@@ -54,12 +62,3 @@
   - Networking systems
   - Rocketry 
   - Thundaga
-
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webdesignsbytom&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webdesignsbytom&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webdesignsbytom&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdesignsbytom&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdesignsbytom&theme=transparent" height="180em" alt="Commitments"/>
-</div>
-
