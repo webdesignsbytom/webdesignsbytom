@@ -1,5 +1,3 @@
-# Hi there 👋 i am
-
 <h1> Tom Brockington </h1>
 
 # Software and Full-Stack Web Developer -- Electrical Engineer
