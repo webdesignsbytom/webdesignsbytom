@@ -1,6 +1,5 @@
 <h1> Tom Brockington </h1>
-
-# Software Developer and Fullstack Web Developer -- Electrical Engineer
+<h3> Software Developer and Fullstack Web Developer -- Electrical Engineer </h3>
 
 <h2> Skill-stack </h2>
 
