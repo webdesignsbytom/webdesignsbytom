@@ -47,10 +47,12 @@
 </div>
 
 ## Interests
-<p>I especially like combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.</p>
-<p>Fine woodworking and epoxy resin art <a href="https://instagram/tavyepoxy" target="_blank">TavyEpoxy</a></p>
-<p>Amateur rocket builder - brain designs available.</p>
-<p>Travel and scuba diving.</p>
+- **Arduino Robotics**: I especially enjoy combining my love of electrical engineering and programming, so C/C++ based Arduino projects are a big hobby of mine.
+- **AI Robot Intergration**: Using Jupyter labs and various networks to control and train various robots. 
+- **Fine Woodworking and Epoxy Resin Art**: I create epoxy resin art pieces and fine woodworking projects. You can check out my work on [TavyEpoxy](https://instagram/tavyepoxy).
+- **Amateur Rocket Building**: I’m an amateur rocket builder with designs available for anyone interested.
+- **Travel and Scuba Diving**: I love traveling and scuba diving, exploring new places and underwater worlds.
+
 
 ## Extra-curricular
 - I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
