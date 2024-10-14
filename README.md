@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/Material UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=8DD6F9" alt="Webpack">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman">
@@ -20,7 +19,6 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind">
   <img src="https://img.shields.io/badge/-Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1B222D" alt="Prisma">
