@@ -50,11 +50,11 @@
 - **AI Robot Intergration**: Using Jupyter labs and various networks to control and train various robots.
 - **JS Gaming**: Creating fun 2D adventure or platform games. A 2D isometric city is my goal.
 - **Fine Woodworking and Epoxy Resin Art**: I create epoxy resin art pieces and fine woodworking projects. You can check out my work on [TavyEpoxy](https://instagram/tavyepoxy).
-- **Amateur Rocket Building**: I’m an amateur rocket builder with designs available for anyone interested.
+- **Amateur Rocket Building**: I’m a rocket builder with designs available for anyone interested.
 
 
 ## Extra-curricular
-- **Code ssharing** I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
-- **Planet Tidy** Part of a team working on myecoapp.org charity.
+- **Code Machines** I create Arduino circuit board instructions [Arduino Projects](https://www.hackster.io/webmailhostwebdesignbytom).
+- **Environmental** Part of a team working on myecoapp.org charity.
 - **Travel and Scuba Diving**: I love traveling and scuba diving, exploring new places and underwater worlds.
 
